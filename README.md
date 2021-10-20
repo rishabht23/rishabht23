@@ -9,6 +9,10 @@
 
 - 🌱 I’m currently learning **DBMS, Theory Of Computation, Computer Networks, Agile Software Methodology**
 
+- 👯 I’m looking to collaborate on **Open Source Contribution**
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/rishabhtiwari23/](https://www.linkedin.com/in/rishabhtiwari23/)
+
 - 💬 Ask me about **C, CPP, HTML, CSS**
 
 - 📫 How to reach me **rishabh224225@gmail.com**
